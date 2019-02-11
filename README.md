@@ -1,1 +1,1 @@
-# screenshots
+Screenshots for Liri node App
